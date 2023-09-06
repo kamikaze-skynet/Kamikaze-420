@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2146" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1829" class="">
     <defs>
         <style/>
     </defs>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.65m added, 31.2k removed
+                                    1.08m added, 34.2k removed
                                 </div>
                             </section>
                             <section>
@@ -361,8 +361,8 @@
                             09
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">9</span>
+                            <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             10
                         </div>
                         <div class="entry">
@@ -381,8 +381,8 @@
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">14</span>
-                            <div class="bar" style="height: 38.88888888888889px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">13</span>
+                            <div class="bar" style="height: 36.11111111111111px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -447,28 +447,28 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">63</span>
+                                <span class="value">62</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">11</span>
-                                <div class="bar" style="height: 8.73015873015873px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12</span>
+                                <div class="bar" style="height: 9.67741935483871px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">8</span>
-                                <div class="bar" style="height: 6.349206349206349px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 6.451612903225806px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">11</span>
-                                <div class="bar" style="height: 8.73015873015873px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.870967741935484px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
                                 <span class="value">27</span>
-                                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 21.774193548387096px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -3028,6 +3028,26 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">Kamikaze-420/SkyNet-Killfeed</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e66b39d</div>
+                                        <div class="message">salty sync</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -3092,106 +3112,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 77 commits in
-                                        <span class="repo">Kamikaze-420/SkyNet-Killfeed</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3bdc73d</div>
-                                        <div class="message">try this for</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84d0a76</div>
-                                        <div class="message">try</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e69aa8c</div>
-                                        <div class="message">reverted back</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5c79789</div>
-                                        <div class="message">disable all for a sec</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d44f680</div>
-                                        <div class="message">yeet</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#164f318</div>
-                                        <div class="message">try</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ccaffed</div>
-                                        <div class="message">try</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1fba1f8</div>
-                                        <div class="message">tt</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8655bd7</div>
-                                        <div class="message">gpt error</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a0415ca</div>
-                                        <div class="message">nextcord not commands fail kami</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6a25845</div>
-                                        <div class="message">try  whitelist view with dropdownbox</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#edd206a</div>
-                                        <div class="message">try2</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ce3ed8</div>
-                                        <div class="message">try</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#772ea32</div>
-                                        <div class="message">whitelist</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b4ba4f2</div>
-                                        <div class="message">whitelist commands</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05682c3</div>
-                                        <div class="message"> Added a whitelist feature for Nitrado servers.</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#15d324f</div>
-                                        <div class="message">error logging</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cebee2a</div>
-                                        <div class="message">Merge branch 'testing' of https://github.com/Kamikaze-420/SkyNet-Killfeed into testing
-
-* 'testing' of https://github.com/Kamikaze-420/SkyNet-Killfeed:</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b09bd72</div>
-                                        <div class="message">try shorter whitelisting</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2df5ce3</div>
-                                        <div class="message">Merge pull request #48 from Kamikaze-420/main
-
-Merge pull request #47 from Kamikaze-420/testing</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3215,7 +3135,7 @@ Merge pull request #47 from Kamikaze-420/testing</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Sept 2023, 12:02:09 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 6 Sept 2023, 13:02:27 (timezone America/Los_Angeles) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
