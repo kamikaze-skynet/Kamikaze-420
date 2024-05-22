@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2m added, 95.5k removed
+                                    2.30m added, 80.1k removed
                                 </div>
                             </section>
                             <section>
@@ -302,7 +302,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 20:00</li>
-                        <li>Mostly active on Sunday</li>
+                        <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
             </section>
@@ -346,8 +346,8 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 22.916666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">9</span>
+                            <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -426,8 +426,8 @@
                             22
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             23
                         </div>
                     </div>
@@ -437,18 +437,18 @@
                         <h3>Commit activity per day of week</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">69</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">67</span>
+                                <div class="bar" style="height: 45.89041095890411px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sun
                             </div>
                             <div class="entry">
                                 <span class="value">50</span>
-                                <div class="bar" style="height: 36.231884057971016px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 34.24657534246575px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">65</span>
-                                <div class="bar" style="height: 47.10144927536232px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">73</span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -467,8 +467,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 4.3478260869565215px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -2894,8 +2894,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">testing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#847c040</div>
-                                        <div class="message">Refactor check_permissions function to improve readability and add debug logging</div>
+                                        <div class="sha">#699c0d3</div>
+                                        <div class="message">Refactor ConfigureRadarModal to use ConfigureDropdown for radar options configuration</div>
                                     </div>
                                 </div>
                             </section>
@@ -2914,8 +2914,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">testing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#b2d18dd</div>
-                                        <div class="message">Refactor ZoneDropdown class to include pool parameter for database connection</div>
+                                        <div class="sha">#c1e8d83</div>
+                                        <div class="message">Refactor ZoneDropdown class to include role_id and pool parameters</div>
                                     </div>
                                 </div>
                             </section>
@@ -2934,8 +2934,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">testing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#323e296</div>
-                                        <div class="message">Refactor check_permissions function to improve readability and add debug logging</div>
+                                        <div class="sha">#3aa708f</div>
+                                        <div class="message">Refactor ConfigureRadarModal to use ConfigFieldsDropdown for radar fields configuration</div>
                                     </div>
                                 </div>
                             </section>
@@ -2954,8 +2954,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">testing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e6aa63</div>
-                                        <div class="message">Refactor RadarView class to pass the pool parameter to EditRadarModal and DeleteRadarModal</div>
+                                        <div class="sha">#b39baaa</div>
+                                        <div class="message">Refactor ConfigureModal to use ConfigureDropdown for radar options configuration</div>
                                     </div>
                                 </div>
                             </section>
@@ -2974,8 +2974,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">testing</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2785dab</div>
-                                        <div class="message">Refactor RadarCommands.on_ready to use self.bot.zone_pool for database connection</div>
+                                        <div class="sha">#b6ff21b</div>
+                                        <div class="message">Refactor CreateRadarModal to use ZoneDropdown with default parameters</div>
                                     </div>
                                 </div>
                             </section>
@@ -3003,7 +3003,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 May 2024, 23:01:45 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 22 May 2024, 00:01:56 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
