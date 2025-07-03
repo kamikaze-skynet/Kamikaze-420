@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.51m added, 193k removed
+                                    899k added, 65.8k removed
                                 </div>
                             </section>
                             <section>
@@ -346,8 +346,8 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -366,8 +366,8 @@
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 6.666666666666667px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             11
                         </div>
                         <div class="entry">
@@ -442,8 +442,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">21</span>
-                                <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">19</span>
+                                <div class="bar" style="height: 18.627450980392158px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -457,8 +457,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                <span class="value">2</span>
+                                <div class="bar" style="height: 1.9607843137254901px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -2960,27 +2960,27 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0d82996</div>
-                                        <div class="message">Handle missing build stat tables (#943)
+                                        <div class="sha">#0e9d9dd</div>
+                                        <div class="message">Add next rank details to embeds (#944)
 
 ## Summary
-- ensure build statistics tables exist before reading or writing
-- default to zero totals when no build stats found
-- add helper to fetch per-item build totals and show per-item stats in
+- add `get_next_rank_for_score` DB helper
+- display next rank info in PVP, PVE, build, connection and player list
 embeds
 
 ## Testing
 - `python -m py_compile module/killfeed/db.py
-module/killfeed/events/build.py`
-- `pytest -q` *(fails: ModuleNotFoundError: No module named 'nextcord')*
+module/killfeed/events/pvp.py module/killfeed/events/pve.py
+module/killfeed/events/build.py module/killfeed/events/connection.py
+module/killfeed/events/playerlist.py`
 
 
 ------
-https://chatgpt.com/codex/tasks/task_e_6866054926748331ad82b25f5aec5557</div>
+https://chatgpt.com/codex/tasks/task_e_68668879f02c8331a4c4496236bd0a28</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#26ede31</div>
-                                        <div class="message">Add helper to fetch item build totals</div>
+                                        <div class="sha">#613a80a</div>
+                                        <div class="message">Show next rank info</div>
                                     </div>
                                 </div>
                             </section>
@@ -2993,12 +2993,12 @@ https://chatgpt.com/codex/tasks/task_e_6866054926748331ad82b25f5aec5557</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#943 Handle missing build stat tables</span>
+                                        <span class="issue">#944 Add next rank details to embeds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kamikaze-skynet/SkyNet-Killfeed</span></div>
-                                    <div>2 files changed <span class="code">++75 --21</span></div>
+                                    <div>6 files changed <span class="code">++97 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3010,12 +3010,12 @@ https://chatgpt.com/codex/tasks/task_e_6866054926748331ad82b25f5aec5557</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#943 Handle missing build stat tables</span>
+                                        <span class="issue">#944 Add next rank details to embeds</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kamikaze-skynet/SkyNet-Killfeed</span></div>
-                                    <div>2 files changed <span class="code">++75 --21</span></div>
+                                    <div>6 files changed <span class="code">++97 --1</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3031,10 +3031,10 @@ https://chatgpt.com/codex/tasks/task_e_6866054926748331ad82b25f5aec5557</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">codex/fix-build-stats-display-after-update</span></div>
+                                    <div>on branch <span class="code">codex/integrate-killfeed-stats-with-gbplayerstats</span></div>
                                     <div class="commit">
-                                        <div class="sha">#26ede31</div>
-                                        <div class="message">Add helper to fetch item build totals</div>
+                                        <div class="sha">#613a80a</div>
+                                        <div class="message">Show next rank info</div>
                                     </div>
                                 </div>
                             </section>
@@ -3048,7 +3048,7 @@ https://chatgpt.com/codex/tasks/task_e_6866054926748331ad82b25f5aec5557</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">codex/fix-build-stats-display-after-update</span>
+                                        <span class="code">codex/integrate-killfeed-stats-with-gbplayerstats</span>
                                         in
                                         <span class="repo">kamikaze-skynet/SkyNet-Killfeed</span>
                                     </div>
@@ -3078,7 +3078,7 @@ https://chatgpt.com/codex/tasks/task_e_6866054926748331ad82b25f5aec5557</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2025, 12:01:33 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jul 2025, 13:01:47 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
