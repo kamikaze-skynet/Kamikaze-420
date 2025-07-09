@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.43m added, 233k removed
+                                    421k added, 38.9k removed
                                 </div>
                             </section>
                             <section>
@@ -297,7 +297,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 89 commits)</small>
+                    <small class="h-details">(computed from last 86 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -321,8 +321,8 @@
                             01
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             02
                         </div>
                         <div class="entry">
@@ -401,8 +401,8 @@
                             17
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
@@ -447,13 +447,13 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">54</span>
+                                <span class="value">45</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">35</span>
-                                <div class="bar" style="height: 32.407407407407405px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">41</span>
+                                <div class="bar" style="height: 45.55555555555556px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -2963,14 +2963,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">node</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1119ca1</div>
-                                        <div class="message">Merge pull request #76 from kamikaze-skynet/codex/redesign-dashboard-for-discord-oauth2
+                                        <div class="sha">#906fa54</div>
+                                        <div class="message">Merge pull request #79 from kamikaze-skynet/codex/remake-dashboard-to-connect-with-database-schema
 
-Fix dashboard API with local endpoints</div>
+Add dashboard for Discord server settings</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#302c85b</div>
-                                        <div class="message">Restore local dashboard API</div>
+                                        <div class="sha">#eadf4a8</div>
+                                        <div class="message">Fix API endpoints in dashboard script</div>
                                     </div>
                                 </div>
                             </section>
@@ -2983,12 +2983,12 @@ Fix dashboard API with local endpoints</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#76 Fix dashboard API with local endpoints</span>
+                                        <span class="issue">#79 Add dashboard for Discord server settings</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kamikaze-skynet/skynet_website</span></div>
-                                    <div>7 files changed <span class="code">++56 --65</span></div>
+                                    <div>2 files changed <span class="code">++158 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3000,12 +3000,12 @@ Fix dashboard API with local endpoints</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#76 Fix dashboard API with local endpoints</span>
+                                        <span class="issue">#79 Add dashboard for Discord server settings</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kamikaze-skynet/skynet_website</span></div>
-                                    <div>7 files changed <span class="code">++56 --65</span></div>
+                                    <div>2 files changed <span class="code">++158 --3</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3021,10 +3021,10 @@ Fix dashboard API with local endpoints</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">codex/redesign-dashboard-for-discord-oauth2</span></div>
+                                    <div>on branch <span class="code">codex/remake-dashboard-to-connect-with-database-schema</span></div>
                                     <div class="commit">
-                                        <div class="sha">#302c85b</div>
-                                        <div class="message">Restore local dashboard API</div>
+                                        <div class="sha">#eadf4a8</div>
+                                        <div class="message">Fix API endpoints in dashboard script</div>
                                     </div>
                                 </div>
                             </section>
@@ -3038,7 +3038,7 @@ Fix dashboard API with local endpoints</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">codex/redesign-dashboard-for-discord-oauth2</span>
+                                        <span class="code">codex/remake-dashboard-to-connect-with-database-schema</span>
                                         in
                                         <span class="repo">kamikaze-skynet/skynet_website</span>
                                     </div>
@@ -3068,7 +3068,7 @@ Fix dashboard API with local endpoints</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2025, 10:03:13 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2025, 11:02:01 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
