@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    380k added, 34.1k removed
+                                    1.78m added, 238k removed
                                 </div>
                             </section>
                             <section>
@@ -209,7 +209,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M0 1.75A.75.75 0 01.75 1h4.253c1.227 0 2.317.59 3 1.501A3.744 3.744 0 0111.006 1h4.245a.75.75 0 01.75.75v10.5a.75.75 0 01-.75.75h-4.507a2.25 2.25 0 00-1.591.659l-.622.621a.75.75 0 01-1.06 0l-.622-.621A2.25 2.25 0 005.258 13H.75a.75.75 0 01-.75-.75V1.75zm8.755 3a2.25 2.25 0 012.25-2.25H14.5v9h-3.757c-.71 0-1.4.201-1.992.572l.004-7.322zm-1.504 7.324l.004-5.073-.002-2.253A2.25 2.25 0 005.003 2.5H1.5v9h3.757a3.75 3.75 0 011.994.574z"/>
                                     </svg>
-                                    343 views in last two weeks
+                                    349 views in last two weeks
                                 </div>
                             </section>
                         </div>
@@ -301,7 +301,7 @@
                 </h2>
                 <div class="row">
                     <ul class="facts">
-                        <li>Mostly pushes code around 16:00</li>
+                        <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
                 </div>
@@ -311,8 +311,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">17</span>
+                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -391,43 +391,43 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">16</span>
-                            <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             16
                         </div>
                         <div class="entry">
                             <span class="value">10</span>
-                            <div class="bar" style="height: 31.25px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 29.411764705882355px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             17
                         </div>
                         <div class="entry">
                             <span class="value">14</span>
-                            <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             20
                         </div>
                         <div class="entry">
                             <span class="value">11</span>
-                            <div class="bar" style="height: 34.375px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">14</span>
-                            <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="height: 41.17647058823529px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             22
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 21.875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             23
                         </div>
                     </div>
@@ -447,13 +447,13 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">83</span>
+                                <span class="value">72</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 3.614457831325301px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">17</span>
+                                <div class="bar" style="height: 11.805555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -2963,14 +2963,14 @@
                                 <div class="details">
                                     <div>on branch <span class="code">node</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bb793a1</div>
-                                        <div class="message">Merge pull request #63 from kamikaze-skynet/codex/convert-leaderboard-to-node.js-api
+                                        <div class="sha">#10a57bc</div>
+                                        <div class="message">Merge pull request #68 from kamikaze-skynet/f2lag1-codex/fix-content-security-policy-errors
 
-Add Node leaderboard proxy routes</div>
+Update CSP for external assets</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#6a96aee</div>
-                                        <div class="message">Add Node leaderboard API routes</div>
+                                        <div class="sha">#9257a05</div>
+                                        <div class="message">Format scripts with Prettier</div>
                                     </div>
                                 </div>
                             </section>
@@ -2983,12 +2983,12 @@ Add Node leaderboard proxy routes</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#63 Add Node leaderboard proxy routes</span>
+                                        <span class="issue">#68 Update CSP for external assets</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kamikaze-skynet/skynet_website</span></div>
-                                    <div>4 files changed <span class="code">++52 --1</span></div>
+                                    <div>9 files changed <span class="code">++961 --794</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3000,12 +3000,12 @@ Add Node leaderboard proxy routes</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#63 Add Node leaderboard proxy routes</span>
+                                        <span class="issue">#68 Update CSP for external assets</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">kamikaze-skynet/skynet_website</span></div>
-                                    <div>4 files changed <span class="code">++52 --1</span></div>
+                                    <div>9 files changed <span class="code">++961 --794</span></div>
                                 </div>
                             </section>
                         </div>
@@ -3021,10 +3021,10 @@ Add Node leaderboard proxy routes</div>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">codex/convert-leaderboard-to-node.js-api</span></div>
+                                    <div>on branch <span class="code">f2lag1-codex/fix-content-security-policy-errors</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6a96aee</div>
-                                        <div class="message">Add Node leaderboard API routes</div>
+                                        <div class="sha">#9257a05</div>
+                                        <div class="message">Format scripts with Prettier</div>
                                     </div>
                                 </div>
                             </section>
@@ -3038,7 +3038,7 @@ Add Node leaderboard proxy routes</div>
                                     <div class="content">
                                         Created new
                       branch
-                                        <span class="code">codex/convert-leaderboard-to-node.js-api</span>
+                                        <span class="code">f2lag1-codex/fix-content-security-policy-errors</span>
                                         in
                                         <span class="repo">kamikaze-skynet/skynet_website</span>
                                     </div>
@@ -3068,7 +3068,7 @@ Add Node leaderboard proxy routes</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jul 2025, 07:01:50 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jul 2025, 08:01:58 (timezone America/Los_Angeles) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
