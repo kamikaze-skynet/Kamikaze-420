@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm Kamikaze-420
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8;Always+Learning+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
@@ -73,11 +73,11 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kamikaze-420&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=Kamikaze-420&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamikaze-420&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=C9D1D9" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamikaze-420&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -129,17 +129,17 @@ const currentFocus = {
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
 ---
 
-## 📊 Profile Views
+## 👀 Profile Views
 
 <div align="center">
 
-![Visitor Count](https://profile-counter.glitch.me/Kamikaze-420/count.svg)
+[![](https://visitcount.itsvg.in/api?id=Kamikaze-420&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
