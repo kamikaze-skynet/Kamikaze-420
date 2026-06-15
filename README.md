@@ -77,7 +77,7 @@ me.say_hi()
 ![Kamikaze's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamikaze-skynet&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=C9D1D9)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamikaze-skynet&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=C9D1D9)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kamikaze-skynet&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7)
+![GitHub Streak](https://streak-stats.demolab.com/?user=kamikaze-skynet&theme=tokyonight&hide_border=true&ring=00F7F7&fire=00F7F7&currStreakLabel=00F7F7&date_format=j%20M%5B%2C%20Y%5D)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=kamikaze-skynet&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=C9D1D9)
 
